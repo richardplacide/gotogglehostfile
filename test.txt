@@ -1,0 +1,9 @@
+# HOST FILE
+
+MAPA
+
+0.0.0.0	www.baba.com
+0.0.0.0 google.com
+0.0.0.0 nono.ru
+0.0.0.0 youtube.com
+0.0.0.0 lastone.net
